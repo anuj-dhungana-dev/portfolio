@@ -15,7 +15,7 @@ export const projects = [
       "A modern e-commerce platform with real-time inventory management, secure payments, and responsive design.",
     tech: ["React", "Node.js", "MongoDB", "Stripe"],
     image: "/ecommerce.jpg",
-    github: "https://github.com/AnujDhungana7-21",
+    github: "https://github.com/anuj-dhungana-dev",
   },
   {
     title: "Social Media App",
@@ -23,7 +23,7 @@ export const projects = [
       "Feature-rich social platform with real-time messaging, post sharing, and user interactions.",
     tech: ["React", "Socket.io", "Express", "MongoDB"],
     image: "/social_media.png",
-    github: "https://github.com/AnujDhungana7-21",
+    github: "https://github.com/anuj-dhungana-dev",
   },
   {
     title: "Task Management",
@@ -31,14 +31,14 @@ export const projects = [
       "Collaborative project management tool with real-time updates and team collaboration features.",
     tech: ["React", "Redux", "Node.js", "PostgreSQL"],
     image: "/task.png",
-    github: "https://github.com/AnujDhungana7-21",
+    github: "https://github.com/anuj-dhungana-dev",
   },
   {
     title: "Weather App",
     description: "A real-time weather forecasting application.",
     tech: ["React", "API", "CSS"],
     image: "/weather.png",
-    github: "https://github.com/AnujDhungana7-21",
+    github: "https://github.com/anuj-dhungana-dev",
   },
   {
     title: "Blog Platform",
@@ -46,7 +46,7 @@ export const projects = [
       "A full-stack blogging platform with authentication and real-time updates.",
     tech: ["React", "Node.js", "MongoDB"],
     image: "/blog.jpg",
-    github: "https://github.com/AnujDhungana7-21",
+    github: "https://github.com/anuj-dhungana-dev",
   },
 ];
 
