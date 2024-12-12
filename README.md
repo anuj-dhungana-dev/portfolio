@@ -1,8 +1,16 @@
-# React + Vite
+This is personal portfolio to show case your personal project, Skills.
+it is based in React tailwind CSS
+------commands--------
+npm install
+npm run dev
+-------HOME & ABOUTS----------
+![one](https://github.com/user-attachments/assets/e47f0b13-073f-4718-8c51-292f24dd53a6)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-------PROJECTS--------------
+![project](https://github.com/user-attachments/assets/094f9e6b-4da0-443c-8ef8-85e2eb3b53dd)
 
-Currently, two official plugins are available:
+---------SKILLS--------------
+![skills](https://github.com/user-attachments/assets/c2aa8a5a-823b-411e-88ad-63eae3211933)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---------CONTACTS-----------
+![contact](https://github.com/user-attachments/assets/03a1f6b4-d6ec-4e11-badf-37553912b42a)
